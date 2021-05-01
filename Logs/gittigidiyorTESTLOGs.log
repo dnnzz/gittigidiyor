@@ -1,0 +1,28 @@
+2021-05-01 16:10:34 INFO  GittiGidiyor:19 - ||||| Test Başladı |||||
+2021-05-01 16:10:34 INFO  GittiGidiyor:39 - Ana Sayfa kontrol !
+2021-05-01 16:10:38 INFO  GittiGidiyor:53 - Giriş başarılı.
+2021-05-01 16:10:38 INFO  GittiGidiyor:59 - Giriş kontrol başarılı.
+2021-05-01 16:10:40 INFO  GittiGidiyor:68 - bilgisayar aratıldı.
+2021-05-01 16:10:42 INFO  GittiGidiyor:76 - 2.sayfaya geçildi.
+2021-05-01 16:10:44 INFO  GittiGidiyor:102 - Ürünün Sayfa Fiyatı : 4.749,90 TL
+2021-05-01 16:10:44 INFO  GittiGidiyor:114 - Sepete eklendi !
+2021-05-01 16:10:46 INFO  GittiGidiyor:119 - Sepete gidildi !
+2021-05-01 16:10:47 INFO  GittiGidiyor:125 - Ürünün sepet fiyatı : 4.749,90 TL
+2021-05-01 16:10:47 INFO  GittiGidiyor:127 - Fiyat doğrulaması yapıldı
+2021-05-01 16:10:49 INFO  GittiGidiyor:134 - Ürün adedi 2 yapıldı.
+2021-05-01 16:10:49 INFO  GittiGidiyor:139 - Sepet boş !
+2021-05-01 16:10:49 INFO  GittiGidiyor:32 - ||||| TEST SONLANDI |||||
+2021-05-01 16:12:24 INFO  GittiGidiyor:19 - ||||| Test Başladı |||||
+2021-05-01 16:12:24 INFO  GittiGidiyor:39 - Ana Sayfa kontrol !
+2021-05-01 16:12:27 INFO  GittiGidiyor:53 - Giriş başarılı.
+2021-05-01 16:12:27 INFO  GittiGidiyor:59 - Giriş kontrol başarılı.
+2021-05-01 16:12:30 INFO  GittiGidiyor:68 - bilgisayar aratıldı.
+2021-05-01 16:12:32 INFO  GittiGidiyor:76 - 2.sayfaya geçildi.
+2021-05-01 16:12:49 INFO  GittiGidiyor:107 - Ürünün Sayfa Fiyatı : 2.749,00 TL
+2021-05-01 16:12:49 INFO  GittiGidiyor:114 - Sepete eklendi !
+2021-05-01 16:12:51 INFO  GittiGidiyor:119 - Sepete gidildi !
+2021-05-01 16:12:53 INFO  GittiGidiyor:125 - Ürünün sepet fiyatı : 2.749,00 TL
+2021-05-01 16:12:53 INFO  GittiGidiyor:127 - Fiyat doğrulaması yapıldı
+2021-05-01 16:12:54 INFO  GittiGidiyor:134 - Ürün adedi 2 yapıldı.
+2021-05-01 16:12:54 INFO  GittiGidiyor:139 - Sepet boş !
+2021-05-01 16:12:54 INFO  GittiGidiyor:32 - ||||| TEST SONLANDI |||||
